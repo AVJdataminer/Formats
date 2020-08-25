@@ -9,13 +9,14 @@ Steps:
 
 ## 1. Installing PostgreSQL
 Go to the visual Studio marketplace and search for PostgreSQL. Click the install button on the Add on.
-![](images/image1.png)
+![Test relative image folder](images/image1.png)
 
-![](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/images1.png)
+![](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image1.png)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE0NTU1NTgsMjgxNDU3ODMwXX0=
+eyJoaXN0b3J5IjpbLTkxNDk3NTA2OCwtMTQxMTQ1NTU1OCwyOD
+E0NTc4MzBdfQ==
 -->
