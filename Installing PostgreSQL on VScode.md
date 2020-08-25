@@ -13,8 +13,6 @@ Open VScode open the Extensions in the left panel and search for PostgreSQL. Sel
 
 ![relative image link](images/image1a.png)
 
-Install link: https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql 
-
 ## 2. Connect to the Thinkful Server
 
 1) Open the Command Palette (Ctrl + Shift + P) in VS Code.
@@ -41,10 +39,14 @@ Highlight the query and Right-click, select 'Execute Query' and the results will
 
 You can save queries as SQL files and the query results as JSON, csv or Excel.
 
+**Done**
+
+In case you need it here is the [Install link]( https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql).
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyNzM4MjA5LDE2MjY5MjYzMDMsMTE2MT
-Q4NzA5LDYwODQwNzc5LC0xOTAwOTI5NzQxLDExNzA3Nzk0OTAs
-LTE0MTE0NTU1NTgsMjgxNDU3ODMwXX0=
+eyJoaXN0b3J5IjpbMTkzMTU1MjcyMiwxNjI2OTI2MzAzLDExNj
+E0ODcwOSw2MDg0MDc3OSwtMTkwMDkyOTc0MSwxMTcwNzc5NDkw
+LC0xNDExNDU1NTU4LDI4MTQ1NzgzMF19
 -->
