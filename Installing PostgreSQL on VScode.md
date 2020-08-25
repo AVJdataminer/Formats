@@ -7,8 +7,9 @@ Steps:
 2. Connect to the database
 3. write a query and get some data
 
-##1. Installing PostgreSQL
+## 1. Installing PostgreSQL
+Go to the visual Studio marketplace and search for PostgreSQL. Click the install button on the Add on.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDUyMzIxNzNdfQ==
+eyJoaXN0b3J5IjpbMjgxNDU3ODMwXX0=
 -->
