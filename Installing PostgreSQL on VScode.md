@@ -28,7 +28,8 @@ Use these connection details following the prompts to enter your Postgres instan
 	-   **Username:**  dabc_student
 	-   **Password:**  7*.8G9QH21
 
-Once you're connected you will see the connection details at the bottom of your VS Code Window.
+Once you're connected you will see the connection details at the bottom of your VS Code Window.  
+
 ![connect image](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/connect_image.png)
 
 ## 3. Write a query
@@ -48,7 +49,7 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU5MzA2MjMsMTkyMjg3MDU2NywxNz
+eyJoaXN0b3J5IjpbLTEzMDgxNDAzNjksMTkyMjg3MDU2NywxNz
 MwMjIxMDI5LDE2MjY5MjYzMDMsMTE2MTQ4NzA5LDYwODQwNzc5
 LC0xOTAwOTI5NzQxLDExNzA3Nzk0OTAsLTE0MTE0NTU1NTgsMj
 gxNDU3ODMwXX0=
