@@ -21,12 +21,14 @@ Install link: https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vsc
 2) Search and select 'PostgreSQL: New Query'
 
 3) In the command palette, select 'Create Connection Profile'.  
-Use these connection details:
--   **Host name/address:**  142.93.121.174
--   **Port:**  5432
--   **Username:**  dabc_student
--   **Password:**  7*.8G9QH21
-Follow the prompts to enter your Postgres instance's hostname, database, username, and password.
+Use these connection details following the prompts to enter your Postgres instance's hostname, database, username, and password:
+	-   **Host name/address:**  142.93.121.174
+	-   **Port:**  5432
+	-   **Username:**  dabc_student
+	-   **Password:**  7*.8G9QH21
+
+Once you're connected you will see the connection details at the bottom of your VScode Window.
+
 
 You are now connected to your Postgres database. You can confirm this via the Status Bar (the ribbon at the bottom of the VS Code window). It will show your connected hostname, database, and user.
 
@@ -39,7 +41,7 @@ You can save the query results to JSON, csv or Excel.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4ODUyMTg0LDYwODQwNzc5LC0xOTAwOT
+eyJoaXN0b3J5IjpbMTE2MTQ4NzA5LDYwODQwNzc5LC0xOTAwOT
 I5NzQxLDExNzA3Nzk0OTAsLTE0MTE0NTU1NTgsMjgxNDU3ODMw
 XX0=
 -->
