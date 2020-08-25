@@ -32,16 +32,19 @@ Once you're connected you will see the connection details at the bottom of your 
 ![connect image](images/connect_image.png)
 
 ## 3. Write a query
-Type this query into the new SQL script in VS Code to confirm `SELECT * FROM pg_stat_activity;`
+Type this query into the new SQL script in VS Code to confirm you're connected 
+   
+`SELECT * FROM pg_stat_activity;` 
 
-5) Highlight the query and Right-click, select 'Execute Query' and the results will show in a new window.
+Highlight the query and Right-click, select 'Execute Query' and the results will show in a new window in VS Code.
 ![execute qry](images/exe_q1_image.png)
-You can save the query results to JSON, csv or Excel.
+
+You can save queries as SQL files and the query results as JSON, csv or Excel.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU4NTE0NzMsMTYyNjkyNjMwMywxMT
-YxNDg3MDksNjA4NDA3NzksLTE5MDA5Mjk3NDEsMTE3MDc3OTQ5
-MCwtMTQxMTQ1NTU1OCwyODE0NTc4MzBdfQ==
+eyJoaXN0b3J5IjpbNjAyNzM4MjA5LDE2MjY5MjYzMDMsMTE2MT
+Q4NzA5LDYwODQwNzc5LC0xOTAwOTI5NzQxLDExNzA3Nzk0OTAs
+LTE0MTE0NTU1NTgsMjgxNDU3ODMwXX0=
 -->
