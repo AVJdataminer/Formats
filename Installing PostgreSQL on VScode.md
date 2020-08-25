@@ -18,6 +18,7 @@ Open VScode open the Extensions in the left panel and search for PostgreSQL. Sel
 1) Open the Command Palette (Ctrl + Shift + P) in VS Code.
 
 2) Search and select 'PostgreSQL: New Query'
+
 ![search_image](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/search_image.png)
 
 In the command palette, select 'Create Connection Profile'.  
@@ -47,7 +48,7 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk0MTg1NzcsMTkyMjg3MDU2NywxNz
+eyJoaXN0b3J5IjpbLTEwODU5MzA2MjMsMTkyMjg3MDU2NywxNz
 MwMjIxMDI5LDE2MjY5MjYzMDMsMTE2MTQ4NzA5LDYwODQwNzc5
 LC0xOTAwOTI5NzQxLDExNzA3Nzk0OTAsLTE0MTE0NTU1NTgsMj
 gxNDU3ODMwXX0=
