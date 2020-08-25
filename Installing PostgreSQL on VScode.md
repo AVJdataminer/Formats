@@ -1,7 +1,8 @@
 
 
 # Connect VS Code to PostgreSQL 
-Visual Studio Code is very pwoerful IDE used by Windows and Mac lovers alike. These instructions were created for Mac users. 
+Visual Studio Code (VS Code) is a very pwoerful IDE used by Windows and Mac users alike. These instructions were created on a Mac, so slight variations may exist for Windows users.
+
 Steps:
 1. Install the PostgreSQL extension in VS Code.
 2. Connect to the Server
@@ -30,7 +31,8 @@ Use these connection details following the prompts to enter your Postgres instan
 Once you're connected you will see the connection details at the bottom of your VS Code Window.
 ![connect image](images/connect_image.png)
 
-4) Type this query into the new SQL script in VS Code to confirm `SELECT * FROM pg_stat_activity;`
+## 3. Write a query
+Type this query into the new SQL script in VS Code to confirm `SELECT * FROM pg_stat_activity;`
 
 5) Highlight the query and Right-click, select 'Execute Query' and the results will show in a new window.
 ![execute qry](images/exe_q1_image.png)
@@ -39,7 +41,7 @@ You can save the query results to JSON, csv or Excel.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODc4MTY4NCwxNjI2OTI2MzAzLDExNj
-E0ODcwOSw2MDg0MDc3OSwtMTkwMDkyOTc0MSwxMTcwNzc5NDkw
-LC0xNDExNDU1NTU4LDI4MTQ1NzgzMF19
+eyJoaXN0b3J5IjpbLTE3ODU4NTE0NzMsMTYyNjkyNjMwMywxMT
+YxNDg3MDksNjA4NDA3NzksLTE5MDA5Mjk3NDEsMTE3MDc3OTQ5
+MCwtMTQxMTQ1NTU1OCwyODE0NTc4MzBdfQ==
 -->
