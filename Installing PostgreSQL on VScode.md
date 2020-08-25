@@ -4,7 +4,7 @@
 Vscode is very pwoerful IDE used by Windows and Mac lovers alike. These instructions were created for Mac users. 
 Steps:
 1. Install the PostgreSQL add on in VSCode.
-2. Connect to the database
+2. Connect to the server
 3. Write a query and get some data
 
 ## 1. Installing PostgreSQL
@@ -14,9 +14,9 @@ Open VScode open the Extensions in the left panel and search for PostgreSQL. Sel
 
 Install link: https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql 
 
-## Quickstart
+## 2. Connect to the Thinkful Server
 
-1) Open the Command Palette (Ctrl + Shift + P).
+1) Open the Command Palette (Ctrl + Shift + P) in VScode.
 
 2) Search and select 'PostgreSQL: New Query'
 
@@ -33,7 +33,7 @@ You can save the query results to JSON, csv or Excel.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1NDA3NjkwLDYwODQwNzc5LC0xOTAwOT
+eyJoaXN0b3J5IjpbODE3OTEzNzc2LDYwODQwNzc5LC0xOTAwOT
 I5NzQxLDExNzA3Nzk0OTAsLTE0MTE0NTU1NTgsMjgxNDU3ODMw
 XX0=
 -->
