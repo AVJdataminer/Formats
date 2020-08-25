@@ -30,16 +30,16 @@ Use these connection details following the prompts to enter your Postgres instan
 Once you're connected you will see the connection details at the bottom of your VS Code Window.
 ![connect image](images/connect_image.png)
 
-4) Type this query to confirm 'SELECT * FROM pg_stat_activity;`
+4) Type this query into the new SQL script in VS Code to confirm `SELECT * FROM pg_stat_activity;`
 
-5) Right-click, select 'Execute Query' and the results will show in a new window.
+5) Highlight the query and Right-click, select 'Execute Query' and the results will show in a new window.
 
 You can save the query results to JSON, csv or Excel.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjc4NDY4OSwxMTYxNDg3MDksNjA4ND
+eyJoaXN0b3J5IjpbMTYyNjkyNjMwMywxMTYxNDg3MDksNjA4ND
 A3NzksLTE5MDA5Mjk3NDEsMTE3MDc3OTQ5MCwtMTQxMTQ1NTU1
 OCwyODE0NTc4MzBdfQ==
 -->
