@@ -19,7 +19,7 @@ Install link: https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vsc
 1) Open the Command Palette (Ctrl + Shift + P) in VScode.
 
 2) Search and select 'PostgreSQL: New Query'
-
+![search_image](images/search_image.png)
 3) In the command palette, select 'Create Connection Profile'.  
 Use these connection details following the prompts to enter your Postgres instance's hostname, database, username, and password:
 	-   **Host name/address:**  142.93.121.174
@@ -41,7 +41,7 @@ You can save the query results to JSON, csv or Excel.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTQ4NzA5LDYwODQwNzc5LC0xOTAwOT
-I5NzQxLDExNzA3Nzk0OTAsLTE0MTE0NTU1NTgsMjgxNDU3ODMw
-XX0=
+eyJoaXN0b3J5IjpbMTY1ODc1MDc1MywxMTYxNDg3MDksNjA4ND
+A3NzksLTE5MDA5Mjk3NDEsMTE3MDc3OTQ5MCwtMTQxMTQ1NTU1
+OCwyODE0NTc4MzBdfQ==
 -->
