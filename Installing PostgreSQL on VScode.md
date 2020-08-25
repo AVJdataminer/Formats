@@ -10,11 +10,30 @@ Steps:
 ## 1. Installing PostgreSQL
 Open VScode open the Extensions in the left panel and search for PostgreSQL. Select the one authored by Microsoft, click the green install button.
 
-![relative image link](images/image1.png)
+![relative image link](images/image1a.png)
+
+Install link: https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql 
+
+## Quickstart
+
+1) Open the Command Palette (Ctrl + Shift + P).
+
+2) Search and select 'PostgreSQL: New Query'
+
+3) In the command palette, select 'Create Connection Profile'. Follow the prompts to enter your Postgres instance's hostname, database, username, and password.
+
+You are now connected to your Postgres database. You can confirm this via the Status Bar (the ribbon at the bottom of the VS Code window). It will show your connected hostname, database, and user.
+
+4) You can type a query like 'SELECT * FROM pg_stat_activity';
+
+5) Right-click, select 'Execute Query' and the results will show in a new window.
+
+You can save the query results to JSON, csv or Excel.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NDA3NzksLTE5MDA5Mjk3NDEsMTE3MD
-c3OTQ5MCwtMTQxMTQ1NTU1OCwyODE0NTc4MzBdfQ==
+eyJoaXN0b3J5IjpbODc1NDA3NjkwLDYwODQwNzc5LC0xOTAwOT
+I5NzQxLDExNzA3Nzk0OTAsLTE0MTE0NTU1NTgsMjgxNDU3ODMw
+XX0=
 -->
