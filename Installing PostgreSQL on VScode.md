@@ -39,14 +39,14 @@ Highlight the query and Right-click, select 'Execute Query' and the results will
 
 You can save queries as SQL files and the query results as JSON, csv or Excel.
 
-**Done**
+---
 
 In case you need it here is the [Install link]( https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql).
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTU1MjcyMiwxNjI2OTI2MzAzLDExNj
+eyJoaXN0b3J5IjpbMTczMDIyMTAyOSwxNjI2OTI2MzAzLDExNj
 E0ODcwOSw2MDg0MDc3OSwtMTkwMDkyOTc0MSwxMTcwNzc5NDkw
 LC0xNDExNDU1NTU4LDI4MTQ1NzgzMF19
 -->
