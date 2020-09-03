@@ -11,7 +11,7 @@ Steps:
 ## 1. Installing PostgreSQL
 Open VScode open the Extensions in the left panel and search for PostgreSQL. Select the one authored by Chris Kolkman, click the green install button.
 
-![](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image1.png)
+![](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image1a.png)
 
 
 
@@ -53,8 +53,8 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjE3Mzc1OCwtOTk0MDc1MzQ1LDE5Mj
-I4NzA1NjcsMTczMDIyMTAyOSwxNjI2OTI2MzAzLDExNjE0ODcw
-OSw2MDg0MDc3OSwtMTkwMDkyOTc0MSwxMTcwNzc5NDkwLC0xND
-ExNDU1NTU4LDI4MTQ1NzgzMF19
+eyJoaXN0b3J5IjpbLTEyNTQzNjQ5NDUsMTgzMjE3Mzc1OCwtOT
+k0MDc1MzQ1LDE5MjI4NzA1NjcsMTczMDIyMTAyOSwxNjI2OTI2
+MzAzLDExNjE0ODcwOSw2MDg0MDc3OSwtMTkwMDkyOTc0MSwxMT
+cwNzc5NDkwLC0xNDExNDU1NTU4LDI4MTQ1NzgzMF19
 -->
