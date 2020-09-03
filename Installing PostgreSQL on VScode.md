@@ -22,12 +22,12 @@ Open VScode open the Extensions in the left panel and search for PostgreSQL. Sel
 
 1) Open the Command Palette (Ctrl + Shift + P) in VS Code.
 
-2) Search and select 'PostgreSQL: New Query'
+2) Search and select 'PostgreSQL: Add Connection'
 
+![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image3.png)
 
-
-In the command palette, select 'Create Connection Profile'.  
-Use these connection details following the prompts to enter your Postgres instance's hostname, database, username, and password:  
+In the command palette, follow the prompts filing in the connection details for the server connection.
+ Postgres instance's hostname, database, username, and password:  
 	-   **Host name/address:**  142.93.121.174
 	-   **Port:**  5432
 	-   **Username:**  dabc_student
@@ -54,8 +54,8 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0MDEzNDksLTk5NDA3NTM0NSwxOTIyOD
-cwNTY3LDE3MzAyMjEwMjksMTYyNjkyNjMwMywxMTYxNDg3MDks
-NjA4NDA3NzksLTE5MDA5Mjk3NDEsMTE3MDc3OTQ5MCwtMTQxMT
-Q1NTU1OCwyODE0NTc4MzBdfQ==
+eyJoaXN0b3J5IjpbODM5MjA1ODI5LC05OTQwNzUzNDUsMTkyMj
+g3MDU2NywxNzMwMjIxMDI5LDE2MjY5MjYzMDMsMTE2MTQ4NzA5
+LDYwODQwNzc5LC0xOTAwOTI5NzQxLDExNzA3Nzk0OTAsLTE0MT
+E0NTU1NTgsMjgxNDU3ODMwXX0=
 -->
