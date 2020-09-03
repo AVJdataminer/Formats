@@ -13,13 +13,14 @@ Open VScode open the Extensions in the left panel and search for PostgreSQL. Sel
 
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image1a.png)
 
+![enter image description here](ithub%20url:%20%27https://github.com/AVJdataminer/Formats/blob/master/images/image2.png%27%20raw%20url:%20%20%27https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image2.png)
 ## 2. Connect to the Thinkful Server
 
 1) Open the Command Palette (Ctrl + Shift + P) in VS Code.
 
 2) Search and select 'PostgreSQL: New Query'
 
-![search_image](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/search_image.png)
+
 
 In the command palette, select 'Create Connection Profile'.  
 Use these connection details following the prompts to enter your Postgres instance's hostname, database, username, and password:  
@@ -49,8 +50,8 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjI5NTU4MjMsLTk5NDA3NTM0NSwxOT
-IyODcwNTY3LDE3MzAyMjEwMjksMTYyNjkyNjMwMywxMTYxNDg3
-MDksNjA4NDA3NzksLTE5MDA5Mjk3NDEsMTE3MDc3OTQ5MCwtMT
-QxMTQ1NTU1OCwyODE0NTc4MzBdfQ==
+eyJoaXN0b3J5IjpbLTY1OTg2NjczOSwtOTk0MDc1MzQ1LDE5Mj
+I4NzA1NjcsMTczMDIyMTAyOSwxNjI2OTI2MzAzLDExNjE0ODcw
+OSw2MDg0MDc3OSwtMTkwMDkyOTc0MSwxMTcwNzc5NDkwLC0xND
+ExNDU1NTU4LDI4MTQ1NzgzMF19
 -->
