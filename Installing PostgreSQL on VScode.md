@@ -32,7 +32,7 @@ In the command palette, follow the prompts filing in the connection details for 
 	-   **Username:**  dabc_student
 	-   **Password:**  7*.8G9QH21
 
-Once you're connected you will see the connection details at the bottom of your VS Code Window.  
+Once you're connected you will see the connection deatils on the left sidebar in VS code. Click on the Elephant Postgres database icon and you will see thr hostname an
 
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image4.png)
 
@@ -53,8 +53,8 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzkwNDA2NDksLTk5NDA3NTM0NSwxOT
-IyODcwNTY3LDE3MzAyMjEwMjksMTYyNjkyNjMwMywxMTYxNDg3
-MDksNjA4NDA3NzksLTE5MDA5Mjk3NDEsMTE3MDc3OTQ5MCwtMT
-QxMTQ1NTU1OCwyODE0NTc4MzBdfQ==
+eyJoaXN0b3J5IjpbODk5ODU4MjQ5LC05OTQwNzUzNDUsMTkyMj
+g3MDU2NywxNzMwMjIxMDI5LDE2MjY5MjYzMDMsMTE2MTQ4NzA5
+LDYwODQwNzc5LC0xOTAwOTI5NzQxLDExNzA3Nzk0OTAsLTE0MT
+E0NTU1NTgsMjgxNDU3ODMwXX0=
 -->
