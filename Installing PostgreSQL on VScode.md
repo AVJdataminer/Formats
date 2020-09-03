@@ -32,7 +32,7 @@ In the command palette, follow the prompts filing in the connection details for 
 	-   **Username:**  dabc_student
 	-   **Password:**  7*.8G9QH21
 
-Once you're connected you will see the connection deatils on the left sidebar in VS code. Click on the Elephant Postgres database icon and you will see thr hostname and address with an expandable arrow. You can exapnad each of the databases as you would in any server connection tool to investigate the tables and their attributes as 
+Once you're connected you will see the connection deatils on the left sidebar in VS code. Click on the Elephant Postgres database icon and you will see thr hostname and address with an expandable arrow. You can exapnad each of the databases as you would in any server connection tool to investigate the tables and their attributes as well.
 
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image4.png)
 
@@ -53,7 +53,7 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTM5MTI0OCwtOTk0MDc1MzQ1LDE5Mj
+eyJoaXN0b3J5IjpbMTgzMjE3Mzc1OCwtOTk0MDc1MzQ1LDE5Mj
 I4NzA1NjcsMTczMDIyMTAyOSwxNjI2OTI2MzAzLDExNjE0ODcw
 OSw2MDg0MDc3OSwtMTkwMDkyOTc0MSwxMTcwNzc5NDkwLC0xND
 ExNDU1NTU4LDI4MTQ1NzgzMF19
