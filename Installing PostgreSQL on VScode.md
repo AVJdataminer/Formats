@@ -14,7 +14,6 @@ Open VScode open the Extensions in the left panel and search for PostgreSQL. Sel
 ![](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image1a.png)
 
 
-
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image2.png)
 
 
@@ -53,8 +52,8 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQzNjQ5NDUsMTgzMjE3Mzc1OCwtOT
-k0MDc1MzQ1LDE5MjI4NzA1NjcsMTczMDIyMTAyOSwxNjI2OTI2
-MzAzLDExNjE0ODcwOSw2MDg0MDc3OSwtMTkwMDkyOTc0MSwxMT
-cwNzc5NDkwLC0xNDExNDU1NTU4LDI4MTQ1NzgzMF19
+eyJoaXN0b3J5IjpbLTI0NzQ4MDk5NSwxODMyMTczNzU4LC05OT
+QwNzUzNDUsMTkyMjg3MDU2NywxNzMwMjIxMDI5LDE2MjY5MjYz
+MDMsMTE2MTQ4NzA5LDYwODQwNzc5LC0xOTAwOTI5NzQxLDExNz
+A3Nzk0OTAsLTE0MTE0NTU1NTgsMjgxNDU3ODMwXX0=
 -->
