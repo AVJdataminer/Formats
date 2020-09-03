@@ -9,9 +9,9 @@ Steps:
 3. Write a query 
 
 ## 1. Installing PostgreSQL
-Open VScode open the Extensions in the left panel and search for PostgreSQL. Select the one authored by Microsoft, click the green install button.
+Open VScode open the Extensions in the left panel and search for PostgreSQL. Select the one authored by Chris Kolkman, click the green install button.
 
-![relative image link](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image1a.png)
+![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image1a.png)
 
 ## 2. Connect to the Thinkful Server
 
@@ -49,8 +49,8 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDA3NTM0NSwxOTIyODcwNTY3LDE3Mz
-AyMjEwMjksMTYyNjkyNjMwMywxMTYxNDg3MDksNjA4NDA3Nzks
-LTE5MDA5Mjk3NDEsMTE3MDc3OTQ5MCwtMTQxMTQ1NTU1OCwyOD
-E0NTc4MzBdfQ==
+eyJoaXN0b3J5IjpbLTIxMjI5NTU4MjMsLTk5NDA3NTM0NSwxOT
+IyODcwNTY3LDE3MzAyMjEwMjksMTYyNjkyNjMwMywxMTYxNDg3
+MDksNjA4NDA3NzksLTE5MDA5Mjk3NDEsMTE3MDc3OTQ5MCwtMT
+QxMTQ1NTU1OCwyODE0NTc4MzBdfQ==
 -->
