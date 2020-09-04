@@ -44,7 +44,7 @@ Type this query into the new SQL script in VS Code to confirm you're connected
 `SELECT * FROM pg_stat_activity;` 
 
 Highlight the query and Right-click, select 'Execute Query' and the results will show in a new window in VS Code.
-![execute qry](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/exe_q1_image.png)
+![execute qry](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image5.png)
 
 You can save queries as SQL files and the query results as JSON, csv or Excel.
 
@@ -55,9 +55,9 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDkzMTYwOCwtMjQ3NDgwOTk1LDE4Mz
-IxNzM3NTgsLTk5NDA3NTM0NSwxOTIyODcwNTY3LDE3MzAyMjEw
-MjksMTYyNjkyNjMwMywxMTYxNDg3MDksNjA4NDA3NzksLTE5MD
-A5Mjk3NDEsMTE3MDc3OTQ5MCwtMTQxMTQ1NTU1OCwyODE0NTc4
-MzBdfQ==
+eyJoaXN0b3J5IjpbMzgzMzEzMDMxLC0yNDc0ODA5OTUsMTgzMj
+E3Mzc1OCwtOTk0MDc1MzQ1LDE5MjI4NzA1NjcsMTczMDIyMTAy
+OSwxNjI2OTI2MzAzLDExNjE0ODcwOSw2MDg0MDc3OSwtMTkwMD
+kyOTc0MSwxMTcwNzc5NDkwLC0xNDExNDU1NTU4LDI4MTQ1Nzgz
+MF19
 -->
