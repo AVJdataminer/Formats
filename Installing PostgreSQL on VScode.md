@@ -1,12 +1,13 @@
 
 
 # Connect VS Code to PostgreSQL 
+
 Visual Studio Code (VS Code) is a very powerful IDE used by Windows and Mac users alike. These instructions are specific for a Mac, so slight variations may exist for Windows users.
 
-Prerequisites: Microsoft VS Code installed and running on your machine.
+Prerequisites: [Microsoft VS Code](https://code.visualstudio.com/?wt.mc_id=vscom_downloads) installed and running on your machine.
 
 Steps:
-1. Install the [PostgreSQL extension](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres) in VS Code.
+1. Install the [PostgreSQL extension](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres) in VS Code
 2. Connect to the Server
 3. Write a query 
 
@@ -38,22 +39,27 @@ Once you're connected you will see the connection details on the left sidebar in
 
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image4.png)
 
+
+For example if you click on the 'people' table inside the 'baseball' database you can see the name of each field and the data type of each field as well.  
+
+![explore tables image](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image7.png) 
 ## 3. Write a query
 Click on the 'baseball' database to show the public tables, click on public to list those tables. Now, if you right click on the 'salaries' table you choose 'Select Top 1000' from the menu and a new query is generated. Highlight the query and Right-click, select 'Execute Query' and the results will show in a new window in VS Code.
 
-![execute qry](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image5.png)
+![execute query image](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image6.png)
 
 You can also select 'New Query' and write your own, remember to execute you need to highlight the text, right-click and select run query. You can save queries as SQL files and the query results as JSON, csv or Excel.
 
 ---
 
-
+You can easily add additional connections by clicking on the plus sign to the right of 'POSTGRESQL EXPLORER:' For more instructions and demos you can visit the [extension website](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres).  Microsoft does have their own authored extension, but it has more limited capabilities for connecting to and exploring Postgres servers.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzA3ODc0NywxMTE4NDI5OTIyLC0xND
-U0NzI3ODMsOTA0NzU4MzY3LC0yNDc0ODA5OTUsMTgzMjE3Mzc1
-OCwtOTk0MDc1MzQ1LDE5MjI4NzA1NjcsMTczMDIyMTAyOSwxNj
-I2OTI2MzAzLDExNjE0ODcwOSw2MDg0MDc3OSwtMTkwMDkyOTc0
-MSwxMTcwNzc5NDkwLC0xNDExNDU1NTU4LDI4MTQ1NzgzMF19
+eyJoaXN0b3J5IjpbOTQzMTQ2NTg3LC0xOTgxODI5NjQxLC01MD
+MwNzg3NDcsMTExODQyOTkyMiwtMTQ1NDcyNzgzLDkwNDc1ODM2
+NywtMjQ3NDgwOTk1LDE4MzIxNzM3NTgsLTk5NDA3NTM0NSwxOT
+IyODcwNTY3LDE3MzAyMjEwMjksMTYyNjkyNjMwMywxMTYxNDg3
+MDksNjA4NDA3NzksLTE5MDA5Mjk3NDEsMTE3MDc3OTQ5MCwtMT
+QxMTQ1NTU1OCwyODE0NTc4MzBdfQ==
 -->
