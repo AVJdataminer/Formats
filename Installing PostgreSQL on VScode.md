@@ -3,7 +3,7 @@
 # Connect VS Code to PostgreSQL 
 Visual Studio Code (VS Code) is a very powerful IDE used by Windows and Mac users alike. These instructions are specific for a Mac, so slight variations may exist for Windows users.
 
-Prerequisites: VS Code installed and running on your machine.
+Prerequisites: Microsoft VS Code installed and running on your machine.
 
 Steps:
 1. Install the PostgreSQL extension in VS Code.
@@ -11,7 +11,7 @@ Steps:
 3. Write a query 
 
 ## 1. Installing PostgreSQL
-Open VScode open the Extensions in the left panel and search for PostgreSQL. Select the one authored by Chris Kolkman, click the green install button.
+Open VScode click on the Extensions in the left panel and search for PostgreSQL. Select the extension authored by Chris Kolkman, click the green install button.
 
 ![](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image1a.png)
 
@@ -54,7 +54,7 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Njg0NzMzNCwtMjQ3NDgwOTk1LDE4Mz
+eyJoaXN0b3J5IjpbMTU3ODkwNzM4NCwtMjQ3NDgwOTk1LDE4Mz
 IxNzM3NTgsLTk5NDA3NTM0NSwxOTIyODcwNTY3LDE3MzAyMjEw
 MjksMTYyNjkyNjMwMywxMTYxNDg3MDksNjA4NDA3NzksLTE5MD
 A5Mjk3NDEsMTE3MDc3OTQ5MCwtMTQxMTQ1NTU1OCwyODE0NTc4
