@@ -37,7 +37,10 @@ In the command palette, follow the prompts filing in the connection details for 
 Once you're connected you will see the connection details on the left sidebar in VS code. If you done't see the connection in your left table of contents, click on the Elephant Postgres database icon to show the hostname and address with an expandable arrow. You can expand each of the databases as you would in any server connection tool to investigate the tables and their attributes as well.
 
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image4.png)
-For eample if you click on the 'people' table insidyou can see 
+For example if you click on the 'people' table inside the 'baseball' database you can see the name of each field and the data type of each field as well.  
+
+![](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image7.png) 
+
 ## 3. Write a query
 Click on the 'baseball' database to show the public tables, click on public to list those tables. Now, if you right click on the 'salaries' table you choose 'Select Top 1000' from the menu and a new query is generated. Highlight the query and Right-click, select 'Execute Query' and the results will show in a new window in VS Code.
 
@@ -52,7 +55,7 @@ You can also select 'New Query' and write your own, remember to execute you need
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIxNDM3MzMsLTUwMzA3ODc0NywxMT
+eyJoaXN0b3J5IjpbLTEyOTk4MjQ4MzEsLTUwMzA3ODc0NywxMT
 E4NDI5OTIyLC0xNDU0NzI3ODMsOTA0NzU4MzY3LC0yNDc0ODA5
 OTUsMTgzMjE3Mzc1OCwtOTk0MDc1MzQ1LDE5MjI4NzA1NjcsMT
 czMDIyMTAyOSwxNjI2OTI2MzAzLDExNjE0ODcwOSw2MDg0MDc3
