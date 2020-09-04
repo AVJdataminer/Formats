@@ -4,6 +4,7 @@
 
 | ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/1200px-Visual_Studio_Code_1.35_icon_125px_thumb.jpg) |  ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/postgresql_icon_125px_thumb.jpg)|
 |--|--|
+
 Visual Studio Code (VS Code) is a very powerful IDE used by Windows and Mac users alike. These instructions are specific for a Mac, so slight variations may exist for Windows users.
 
 Prerequisites: [Microsoft VS Code](https://code.visualstudio.com/?wt.mc_id=vscom_downloads) installed and running on your machine.
@@ -58,10 +59,11 @@ You can easily add additional connections by clicking on the plus sign to the ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDUxODYxMiw5NDMxNDY1ODcsLTE5OD
-E4Mjk2NDEsLTUwMzA3ODc0NywxMTE4NDI5OTIyLC0xNDU0NzI3
-ODMsOTA0NzU4MzY3LC0yNDc0ODA5OTUsMTgzMjE3Mzc1OCwtOT
-k0MDc1MzQ1LDE5MjI4NzA1NjcsMTczMDIyMTAyOSwxNjI2OTI2
-MzAzLDExNjE0ODcwOSw2MDg0MDc3OSwtMTkwMDkyOTc0MSwxMT
-cwNzc5NDkwLC0xNDExNDU1NTU4LDI4MTQ1NzgzMF19
+eyJoaXN0b3J5IjpbMjAxMzg4NDE5OCwxNjc0NTE4NjEyLDk0Mz
+E0NjU4NywtMTk4MTgyOTY0MSwtNTAzMDc4NzQ3LDExMTg0Mjk5
+MjIsLTE0NTQ3Mjc4Myw5MDQ3NTgzNjcsLTI0NzQ4MDk5NSwxOD
+MyMTczNzU4LC05OTQwNzUzNDUsMTkyMjg3MDU2NywxNzMwMjIx
+MDI5LDE2MjY5MjYzMDMsMTE2MTQ4NzA5LDYwODQwNzc5LC0xOT
+AwOTI5NzQxLDExNzA3Nzk0OTAsLTE0MTE0NTU1NTgsMjgxNDU3
+ODMwXX0=
 -->
