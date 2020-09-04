@@ -24,7 +24,7 @@ Once you have sucessfully installed the green button will change to 'uninstall' 
 
 1) Open the Command Palette (Ctrl + Shift + P) in VS Code.
 
-2) Search and select 'PostgreSQL: Add Connection'
+2) Type 'PostgreSQL' in front of the carrot, and select 'PostgreSQL: Add Connection' when it shows up in the list. Then the command palette will start prompting you for the connection information. 
 
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image3.png)
 
@@ -55,9 +55,9 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTY2MjQ1LC0yNDc0ODA5OTUsMTgzMj
-E3Mzc1OCwtOTk0MDc1MzQ1LDE5MjI4NzA1NjcsMTczMDIyMTAy
-OSwxNjI2OTI2MzAzLDExNjE0ODcwOSw2MDg0MDc3OSwtMTkwMD
-kyOTc0MSwxMTcwNzc5NDkwLC0xNDExNDU1NTU4LDI4MTQ1Nzgz
-MF19
+eyJoaXN0b3J5IjpbLTM5NzQ2NTc2OSwtMjQ3NDgwOTk1LDE4Mz
+IxNzM3NTgsLTk5NDA3NTM0NSwxOTIyODcwNTY3LDE3MzAyMjEw
+MjksMTYyNjkyNjMwMywxMTYxNDg3MDksNjA4NDA3NzksLTE5MD
+A5Mjk3NDEsMTE3MDc3OTQ5MCwtMTQxMTQ1NTU1OCwyODE0NTc4
+MzBdfQ==
 -->
