@@ -18,6 +18,7 @@ Open VScode click on the Extensions in the left panel and search for PostgreSQL.
 
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image2.png)
 
+Once you have sucessfully installed the green button will change to 'uninstall' or 'disable'. Now you're ready to connect to the thinkful server.
 
 ## 2. Connect to the Thinkful Server
 
@@ -54,9 +55,9 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODkwNzM4NCwtMjQ3NDgwOTk1LDE4Mz
-IxNzM3NTgsLTk5NDA3NTM0NSwxOTIyODcwNTY3LDE3MzAyMjEw
-MjksMTYyNjkyNjMwMywxMTYxNDg3MDksNjA4NDA3NzksLTE5MD
-A5Mjk3NDEsMTE3MDc3OTQ5MCwtMTQxMTQ1NTU1OCwyODE0NTc4
-MzBdfQ==
+eyJoaXN0b3J5IjpbMTM4OTY2MjQ1LC0yNDc0ODA5OTUsMTgzMj
+E3Mzc1OCwtOTk0MDc1MzQ1LDE5MjI4NzA1NjcsMTczMDIyMTAy
+OSwxNjI2OTI2MzAzLDExNjE0ODcwOSw2MDg0MDc3OSwtMTkwMD
+kyOTc0MSwxMTcwNzc5NDkwLC0xNDExNDU1NTU4LDI4MTQ1Nzgz
+MF19
 -->
