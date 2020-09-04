@@ -37,11 +37,12 @@ In the command palette, follow the prompts filing in the connection details for 
 Once you're connected you will see the connection details on the left sidebar in VS code. If you done't see the connection in your left table of contents, click on the Elephant Postgres database icon to show the hostname and address with an expandable arrow. You can expand each of the databases as you would in any server connection tool to investigate the tables and their attributes as well.
 
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image4.png)
-
+For eample if you click on the 'people' table insidyou can see 
 ## 3. Write a query
 Click on the 'baseball' database to show the public tables, click on public to list those tables. Now, if you right click on the 'salaries' table you choose 'Select Top 1000' from the menu and a new query is generated. Highlight the query and Right-click, select 'Execute Query' and the results will show in a new window in VS Code.
 
-![execute qry](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image5.png)
+![execute qry](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image6.png)
+
 
 You can also select 'New Query' and write your own, remember to execute you need to highlight the text, right-click and select run query. You can save queries as SQL files and the query results as JSON, csv or Excel.
 
@@ -51,9 +52,10 @@ You can also select 'New Query' and write your own, remember to execute you need
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzA3ODc0NywxMTE4NDI5OTIyLC0xND
-U0NzI3ODMsOTA0NzU4MzY3LC0yNDc0ODA5OTUsMTgzMjE3Mzc1
-OCwtOTk0MDc1MzQ1LDE5MjI4NzA1NjcsMTczMDIyMTAyOSwxNj
-I2OTI2MzAzLDExNjE0ODcwOSw2MDg0MDc3OSwtMTkwMDkyOTc0
-MSwxMTcwNzc5NDkwLC0xNDExNDU1NTU4LDI4MTQ1NzgzMF19
+eyJoaXN0b3J5IjpbLTIwNjIxNDM3MzMsLTUwMzA3ODc0NywxMT
+E4NDI5OTIyLC0xNDU0NzI3ODMsOTA0NzU4MzY3LC0yNDc0ODA5
+OTUsMTgzMjE3Mzc1OCwtOTk0MDc1MzQ1LDE5MjI4NzA1NjcsMT
+czMDIyMTAyOSwxNjI2OTI2MzAzLDExNjE0ODcwOSw2MDg0MDc3
+OSwtMTkwMDkyOTc0MSwxMTcwNzc5NDkwLC0xNDExNDU1NTU4LD
+I4MTQ1NzgzMF19
 -->
