@@ -1,11 +1,11 @@
 
 
-# Connect VS Code to PostgreSQL on a Mac
+# Connect VS Code to PostgreSQL in Windows
 
 | ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/1200px-Visual_Studio_Code_1.35_icon_125px_thumb.jpg) |  ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/postgresql_icon_125px_thumb.jpg)|
 |--|--|
 
-Visual Studio Code (VS Code) is a very powerful IDE used by Windows and Mac users alike. These instructions are specific for a Mac, so slight variations may exist for Windows users.
+Visual Studio Code (VS Code) is a very powerful IDE used by Windows and Mac users alike. These instructions are specific for Windows users, slight variations may exist for Mac users.
 
 Prerequisites: [Microsoft VS Code](https://code.visualstudio.com/?wt.mc_id=vscom_downloads) installed and running on your machine.
 
@@ -52,5 +52,6 @@ You can easily add additional connections by clicking on the plus sign to the ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzQxMTA1NCwtNTExMzYzOTY5XX0=
+eyJoaXN0b3J5IjpbMTg2NzQwMTgwNCwxMDk3NDExMDU0LC01MT
+EzNjM5NjldfQ==
 -->
