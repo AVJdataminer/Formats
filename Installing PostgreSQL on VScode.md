@@ -51,14 +51,14 @@ You can also select 'New Query' and write your own, remember to execute you need
 
 ---
 
-You can easily add additioFor more instructions and demos you can visit the extension website. 
+You can easily add additional connections by clicking on the plus sign to the right of 'POSTGRESQL EXPLORER:' For more instructions and demos you can visit the extension website. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Mjk5NTc5OSwtNTAzMDc4NzQ3LDExMT
-g0Mjk5MjIsLTE0NTQ3Mjc4Myw5MDQ3NTgzNjcsLTI0NzQ4MDk5
-NSwxODMyMTczNzU4LC05OTQwNzUzNDUsMTkyMjg3MDU2NywxNz
-MwMjIxMDI5LDE2MjY5MjYzMDMsMTE2MTQ4NzA5LDYwODQwNzc5
-LC0xOTAwOTI5NzQxLDExNzA3Nzk0OTAsLTE0MTE0NTU1NTgsMj
-gxNDU3ODMwXX0=
+eyJoaXN0b3J5IjpbLTE5ODE4Mjk2NDEsLTUwMzA3ODc0NywxMT
+E4NDI5OTIyLC0xNDU0NzI3ODMsOTA0NzU4MzY3LC0yNDc0ODA5
+OTUsMTgzMjE3Mzc1OCwtOTk0MDc1MzQ1LDE5MjI4NzA1NjcsMT
+czMDIyMTAyOSwxNjI2OTI2MzAzLDExNjE0ODcwOSw2MDg0MDc3
+OSwtMTkwMDkyOTc0MSwxMTcwNzc5NDkwLC0xNDExNDU1NTU4LD
+I4MTQ1NzgzMF19
 -->
