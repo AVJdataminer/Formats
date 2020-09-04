@@ -41,24 +41,24 @@ Once you're connected you will see the connection details on the left sidebar in
 
 For example if you click on the 'people' table inside the 'baseball' database you can see the name of each field and the data type of each field as well.  
 
-![](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image7.png) 
+![explore tables image](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image7.png) 
 ## 3. Write a query
 Click on the 'baseball' database to show the public tables, click on public to list those tables. Now, if you right click on the 'salaries' table you choose 'Select Top 1000' from the menu and a new query is generated. Highlight the query and Right-click, select 'Execute Query' and the results will show in a new window in VS Code.
 
-![execute qry](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image6.png)
+![execute query image](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image6.png)
 
 You can also select 'New Query' and write your own, remember to execute you need to highlight the text, right-click and select run query. You can save queries as SQL files and the query results as JSON, csv or Excel.
 
 ---
 
-You can easily add additional connections by clicking on the plus sign to the right of 'POSTGRESQL EXPLORER:' For more instructions and demos you can visit the extension website. 
+You can easily add additional connections by clicking on the plus sign to the right of 'POSTGRESQL EXPLORER:' For more instructions and demos you can visit the [extension website](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres).  Mi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwODE1NjA1LC0xOTgxODI5NjQxLC01MD
-MwNzg3NDcsMTExODQyOTkyMiwtMTQ1NDcyNzgzLDkwNDc1ODM2
-NywtMjQ3NDgwOTk1LDE4MzIxNzM3NTgsLTk5NDA3NTM0NSwxOT
-IyODcwNTY3LDE3MzAyMjEwMjksMTYyNjkyNjMwMywxMTYxNDg3
-MDksNjA4NDA3NzksLTE5MDA5Mjk3NDEsMTE3MDc3OTQ5MCwtMT
-QxMTQ1NTU1OCwyODE0NTc4MzBdfQ==
+eyJoaXN0b3J5IjpbLTU1NzUzMjAxNiwtMTk4MTgyOTY0MSwtNT
+AzMDc4NzQ3LDExMTg0Mjk5MjIsLTE0NTQ3Mjc4Myw5MDQ3NTgz
+NjcsLTI0NzQ4MDk5NSwxODMyMTczNzU4LC05OTQwNzUzNDUsMT
+kyMjg3MDU2NywxNzMwMjIxMDI5LDE2MjY5MjYzMDMsMTE2MTQ4
+NzA5LDYwODQwNzc5LC0xOTAwOTI5NzQxLDExNzA3Nzk0OTAsLT
+E0MTE0NTU1NTgsMjgxNDU3ODMwXX0=
 -->
