@@ -1,10 +1,8 @@
 
 
 # Connect VS Code to PostgreSQL 
-![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/1200px-Visual_Studio_Code_1.35_icon_125px_thumb.jpg)
 
-
-| ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/1200px-Visual_Studio_Code_1.35_icon_125px_thumb.jpg) |  |
+| ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/1200px-Visual_Studio_Code_1.35_icon_125px_thumb.jpg) |  ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/postgresql_icon_125px_thumb.jpg)|
 |--|--|
 Visual Studio Code (VS Code) is a very powerful IDE used by Windows and Mac users alike. These instructions are specific for a Mac, so slight variations may exist for Windows users.
 
@@ -60,10 +58,10 @@ You can easily add additional connections by clicking on the plus sign to the ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5MDMxNDcsOTQzMTQ2NTg3LC0xOTgxOD
-I5NjQxLC01MDMwNzg3NDcsMTExODQyOTkyMiwtMTQ1NDcyNzgz
-LDkwNDc1ODM2NywtMjQ3NDgwOTk1LDE4MzIxNzM3NTgsLTk5ND
-A3NTM0NSwxOTIyODcwNTY3LDE3MzAyMjEwMjksMTYyNjkyNjMw
-MywxMTYxNDg3MDksNjA4NDA3NzksLTE5MDA5Mjk3NDEsMTE3MD
-c3OTQ5MCwtMTQxMTQ1NTU1OCwyODE0NTc4MzBdfQ==
+eyJoaXN0b3J5IjpbMTY3NDUxODYxMiw5NDMxNDY1ODcsLTE5OD
+E4Mjk2NDEsLTUwMzA3ODc0NywxMTE4NDI5OTIyLC0xNDU0NzI3
+ODMsOTA0NzU4MzY3LC0yNDc0ODA5OTUsMTgzMjE3Mzc1OCwtOT
+k0MDc1MzQ1LDE5MjI4NzA1NjcsMTczMDIyMTAyOSwxNjI2OTI2
+MzAzLDExNjE0ODcwOSw2MDg0MDc3OSwtMTkwMDkyOTc0MSwxMT
+cwNzc5NDkwLC0xNDExNDU1NTU4LDI4MTQ1NzgzMF19
 -->
