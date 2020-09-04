@@ -39,7 +39,7 @@ Once you're connected you will see the connection details on the left sidebar in
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image4.png)
 
 ## 3. Write a query
-Click on the 'baseball' database arrow to show the public tables, click again to list those tables. Now, if you right click on the salaries table you can select 'Top 1000' from the menu and a new query is generated. Highlight the query and Right-click, select 'Execute Query' and the results will show in a new window in VS Code.
+Click on the 'baseball' database arrow to show the public tables, click again to list those tables. Now, if you right click on the salaries table you choose 'Select Top 1000' from the menu and a new query is generated. Highlight the query and Right-click, select 'Execute Query' and the results will show in a new window in VS Code.
 
 ![execute qry](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image5.png)
 
@@ -47,14 +47,13 @@ You can also select 'New Query' and write your own, remember to execute you need
 
 ---
 
-In case you need it here is the [Install link]( https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql).
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0NzU4MzY3LC0yNDc0ODA5OTUsMTgzMj
-E3Mzc1OCwtOTk0MDc1MzQ1LDE5MjI4NzA1NjcsMTczMDIyMTAy
-OSwxNjI2OTI2MzAzLDExNjE0ODcwOSw2MDg0MDc3OSwtMTkwMD
-kyOTc0MSwxMTcwNzc5NDkwLC0xNDExNDU1NTU4LDI4MTQ1Nzgz
-MF19
+eyJoaXN0b3J5IjpbLTE0NTQ3Mjc4Myw5MDQ3NTgzNjcsLTI0Nz
+Q4MDk5NSwxODMyMTczNzU4LC05OTQwNzUzNDUsMTkyMjg3MDU2
+NywxNzMwMjIxMDI5LDE2MjY5MjYzMDMsMTE2MTQ4NzA5LDYwOD
+QwNzc5LC0xOTAwOTI5NzQxLDExNzA3Nzk0OTAsLTE0MTE0NTU1
+NTgsMjgxNDU3ODMwXX0=
 -->
