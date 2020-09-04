@@ -10,7 +10,7 @@ Visual Studio Code (VS Code) is a very powerful IDE used by Windows and Mac user
 Prerequisites: [Microsoft VS Code](https://code.visualstudio.com/?wt.mc_id=vscom_downloads) installed and running on your machine.
 
 Steps:
-1. Install the [PostgreSQL extension](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres) in VS Code
+1. Install the [PostgreSQL Extension](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres) in VS Code
 2. Connect to the Server
 3. Write a query 
 
@@ -59,11 +59,11 @@ You can easily add additional connections by clicking on the plus sign to the ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMzg4NDE5OCwxNjc0NTE4NjEyLDk0Mz
-E0NjU4NywtMTk4MTgyOTY0MSwtNTAzMDc4NzQ3LDExMTg0Mjk5
-MjIsLTE0NTQ3Mjc4Myw5MDQ3NTgzNjcsLTI0NzQ4MDk5NSwxOD
-MyMTczNzU4LC05OTQwNzUzNDUsMTkyMjg3MDU2NywxNzMwMjIx
-MDI5LDE2MjY5MjYzMDMsMTE2MTQ4NzA5LDYwODQwNzc5LC0xOT
-AwOTI5NzQxLDExNzA3Nzk0OTAsLTE0MTE0NTU1NTgsMjgxNDU3
-ODMwXX0=
+eyJoaXN0b3J5IjpbLTE4NjY1NDIyNjYsMTY3NDUxODYxMiw5ND
+MxNDY1ODcsLTE5ODE4Mjk2NDEsLTUwMzA3ODc0NywxMTE4NDI5
+OTIyLC0xNDU0NzI3ODMsOTA0NzU4MzY3LC0yNDc0ODA5OTUsMT
+gzMjE3Mzc1OCwtOTk0MDc1MzQ1LDE5MjI4NzA1NjcsMTczMDIy
+MTAyOSwxNjI2OTI2MzAzLDExNjE0ODcwOSw2MDg0MDc3OSwtMT
+kwMDkyOTc0MSwxMTcwNzc5NDkwLC0xNDExNDU1NTU4LDI4MTQ1
+NzgzMF19
 -->
