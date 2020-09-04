@@ -39,7 +39,7 @@ Once you're connected you will see the connection details on the left sidebar in
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image4.png)
 
 ## 3. Write a query
-Click on the 'baseball' database arrow to show the public tables, click again to list those tables. Now, if you right click on the salaries table you choose 'Select Top 1000' from the menu and a new query is generated. Highlight the query and Right-click, select 'Execute Query' and the results will show in a new window in VS Code.
+Click on the 'baseball' database to show the public tables, click on public to list those tables. Now, if you right click on the 'salaries' table you choose 'Select Top 1000' from the menu and a new query is generated. Highlight the query and Right-click, select 'Execute Query' and the results will show in a new window in VS Code.
 
 ![execute qry](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image5.png)
 
@@ -51,9 +51,9 @@ You can also select 'New Query' and write your own, remember to execute you need
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODQyOTkyMiwtMTQ1NDcyNzgzLDkwND
-c1ODM2NywtMjQ3NDgwOTk1LDE4MzIxNzM3NTgsLTk5NDA3NTM0
-NSwxOTIyODcwNTY3LDE3MzAyMjEwMjksMTYyNjkyNjMwMywxMT
-YxNDg3MDksNjA4NDA3NzksLTE5MDA5Mjk3NDEsMTE3MDc3OTQ5
-MCwtMTQxMTQ1NTU1OCwyODE0NTc4MzBdfQ==
+eyJoaXN0b3J5IjpbLTUwMzA3ODc0NywxMTE4NDI5OTIyLC0xND
+U0NzI3ODMsOTA0NzU4MzY3LC0yNDc0ODA5OTUsMTgzMjE3Mzc1
+OCwtOTk0MDc1MzQ1LDE5MjI4NzA1NjcsMTczMDIyMTAyOSwxNj
+I2OTI2MzAzLDExNjE0ODcwOSw2MDg0MDc3OSwtMTkwMDkyOTc0
+MSwxMTcwNzc5NDkwLC0xNDExNDU1NTU4LDI4MTQ1NzgzMF19
 -->
