@@ -24,7 +24,7 @@ Once you have sucessfully installed the green button will change to 'uninstall' 
 
 1) Open the Command Palette (Ctrl + Shift + P) in VS Code.
 
-2) Type 'PostgreSQL' in front of the carrot, and select 'PostgreSQL: Add Connection' when it shows up in the list. Then the command palette will start prompting you for the connection information. 
+2) Type 'PostgreSQL' in front of the carrot, and select 'PostgreSQL: Add Connection' when it shows up in the list. Then the command palette will start prompting you for the connection information. Follow the settings listed below to establish your server connection.
 
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image3.png)
 
@@ -34,7 +34,7 @@ In the command palette, follow the prompts filing in the connection details for 
 	-   **Username:**  dabc_student
 	-   **Password:**  7*.8G9QH21
 
-Once you're connected you will see the connection deatils on the left sidebar in VS code. Click on the Elephant Postgres database icon and you will see thr hostname and address with an expandable arrow. You can exapnad each of the databases as you would in any server connection tool to investigate the tables and their attributes as well.
+Once you're connected you will see the connection details on the left sidebar in VS code. If you done't see the connection in your left table of Click on the Elephant Postgres database icon and you will see thr hostname and address with an expandable arrow. You can exapnad each of the databases as you would in any server connection tool to investigate the tables and their attributes as well.
 
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image4.png)
 
@@ -55,9 +55,9 @@ In case you need it here is the [Install link]( https://marketplace.visualstudio
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzQ2NTc2OSwtMjQ3NDgwOTk1LDE4Mz
-IxNzM3NTgsLTk5NDA3NTM0NSwxOTIyODcwNTY3LDE3MzAyMjEw
-MjksMTYyNjkyNjMwMywxMTYxNDg3MDksNjA4NDA3NzksLTE5MD
-A5Mjk3NDEsMTE3MDc3OTQ5MCwtMTQxMTQ1NTU1OCwyODE0NTc4
-MzBdfQ==
+eyJoaXN0b3J5IjpbLTEwMTc3MjMzMTksLTI0NzQ4MDk5NSwxOD
+MyMTczNzU4LC05OTQwNzUzNDUsMTkyMjg3MDU2NywxNzMwMjIx
+MDI5LDE2MjY5MjYzMDMsMTE2MTQ4NzA5LDYwODQwNzc5LC0xOT
+AwOTI5NzQxLDExNzA3Nzk0OTAsLTE0MTE0NTU1NTgsMjgxNDU3
+ODMwXX0=
 -->
