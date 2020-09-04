@@ -51,14 +51,14 @@ You can also select 'New Query' and write your own, remember to execute you need
 
 ---
 
-You can easily add additional connections by clicking on the plus sign to the right of 'POSTGRESQL EXPLORER:' For more instructions and demos you can visit the [extension website](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres).  Mi
+You can easily add additional connections by clicking on the plus sign to the right of 'POSTGRESQL EXPLORER:' For more instructions and demos you can visit the [extension website](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres).  Microsoft does have their own authored extension, but it has more limited capabilities for connecting to and exploring Postgres servers.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzUzMjAxNiwtMTk4MTgyOTY0MSwtNT
-AzMDc4NzQ3LDExMTg0Mjk5MjIsLTE0NTQ3Mjc4Myw5MDQ3NTgz
-NjcsLTI0NzQ4MDk5NSwxODMyMTczNzU4LC05OTQwNzUzNDUsMT
-kyMjg3MDU2NywxNzMwMjIxMDI5LDE2MjY5MjYzMDMsMTE2MTQ4
-NzA5LDYwODQwNzc5LC0xOTAwOTI5NzQxLDExNzA3Nzk0OTAsLT
-E0MTE0NTU1NTgsMjgxNDU3ODMwXX0=
+eyJoaXN0b3J5IjpbLTIxMzg4ODE4NDcsLTE5ODE4Mjk2NDEsLT
+UwMzA3ODc0NywxMTE4NDI5OTIyLC0xNDU0NzI3ODMsOTA0NzU4
+MzY3LC0yNDc0ODA5OTUsMTgzMjE3Mzc1OCwtOTk0MDc1MzQ1LD
+E5MjI4NzA1NjcsMTczMDIyMTAyOSwxNjI2OTI2MzAzLDExNjE0
+ODcwOSw2MDg0MDc3OSwtMTkwMDkyOTc0MSwxMTcwNzc5NDkwLC
+0xNDExNDU1NTU4LDI4MTQ1NzgzMF19
 -->
