@@ -1,6 +1,6 @@
 
 
-# Connect VS Code to PostgreSQL 
+# Connect VS Code to PostgreSQL on a Mac
 
 | ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/1200px-Visual_Studio_Code_1.35_icon_125px_thumb.jpg) |  ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/postgresql_icon_125px_thumb.jpg)|
 |--|--|
@@ -52,5 +52,5 @@ You can easily add additional connections by clicking on the plus sign to the ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTM2Mzk2OV19
+eyJoaXN0b3J5IjpbMTA5NzQxMTA1NCwtNTExMzYzOTY5XX0=
 -->
