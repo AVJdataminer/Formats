@@ -17,7 +17,9 @@ Steps:
 ## 1. Installing PostgreSQL
 Open VScode click on the Extensions in the left panel and search for PostgreSQL. Select the extension authored by Chris Kolkman, click the green install button.
 
-![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image2.png)
+![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/Picture1.png)
+
+![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/Picture2.png)
 
 Once you have sucessfully installed the green button will change to 'uninstall' or 'disable'. Now you're ready to connect to the thinkful server.
 
@@ -52,6 +54,6 @@ You can easily add additional connections by clicking on the plus sign to the ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzQwMTgwNCwxMDk3NDExMDU0LC01MT
-EzNjM5NjldfQ==
+eyJoaXN0b3J5IjpbLTIxMTA4NzA5MDIsMTg2NzQwMTgwNCwxMD
+k3NDExMDU0LC01MTEzNjM5NjldfQ==
 -->
