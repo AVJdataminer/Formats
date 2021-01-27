@@ -29,20 +29,21 @@ Once you have sucessfully installed the green button will change to 'uninstall' 
 
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image3.png)
 
-3) Add the hostname of the database: **Host name/address:**  142.93.121.174  and press enter
+3) Add the hostname of the database: **Host name/address:**  142.93.121.174  and press enter  
 ![add_database](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/add_database.png)
+
 4) Add the user to authenticate: **Username:**  dabc_student and press enter
 ![user](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/user.png)
-1) Type the **Password:**  7*.8G9QH21 and press enter 
+5) Type the **Password:**  7*.8G9QH21 and press enter 
 ![pw](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/pw.png)  
-6) Enter the **port number:**  5432
-   ![pn](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/pn.png)
+6) Enter the **port number:**  5432  
+![pn](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/pn.png)
 7) Select Secure Connection and Select Show All Databases
 ![secure](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/secure.png)
 ![show](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/show.png)
 8) Press enter to confirm the display name of the database
 
-You may be asked to for your Mac password to allow access to your Keychain. Enter your password and select Always Allow.
+You may be asked to for your Mac password to allow access to your Keychain. Enter your password and select Always Allow.  
 ![keychain](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/keychain.png)
 
 Once you're connected you will see the connection details on the left sidebar in VS code. If you don't see the connection in your left table of contents, click on the Elephant Postgres database icon to show the hostname and address with an expandable arrow. You can expand each of the databases as you would in any server connection tool to investigate the tables and their attributes as well. For example if you click on the 'people' table inside the 'baseball' database you can see the name of each field and the data type of each field as well.  
