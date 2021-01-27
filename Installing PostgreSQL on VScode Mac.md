@@ -29,13 +29,23 @@ Once you have sucessfully installed the green button will change to 'uninstall' 
 
 ![enter image description here](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image3.png)
 
-In the command palette, follow the prompts filing in the connection details for the Postgres server connection, including:  instance's hostname, database, username, and password:    
-	-   **Host name/address:**  142.93.121.174
-	-   **Port:**  5432
-	-   **Username:**  dabc_student
-	-   **Password:**  7*.8G9QH21
+3) Add the hostname of the database: **Host name/address:**  142.93.121.174  and press enter
+![add_database](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/add_database.png)
+4) Add the user to authenticate: **Username:**  dabc_student and press enter
+![user](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/user.png)
+1) Type the **Password:**  7*.8G9QH21 and press enter 
+![pw](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/pw.png)  
+6) Enter the **port number:**  5432
+   ![pn](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/pn.png)
+7) Select Secure Connection and Select Show All Databases
+![secure](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/secure.png)
+![show](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/show.png)
+8) Press enter to confirm the display name of the database
 
-Once you're connected you will see the connection details on the left sidebar in VS code. If you done't see the connection in your left table of contents, click on the Elephant Postgres database icon to show the hostname and address with an expandable arrow. You can expand each of the databases as you would in any server connection tool to investigate the tables and their attributes as well. For example if you click on the 'people' table inside the 'baseball' database you can see the name of each field and the data type of each field as well.  
+You may be asked to for your Mac password to allow access to your Keychain. Enter your password and select Always Allow.
+![keychain](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/keychain.png)
+
+Once you're connected you will see the connection details on the left sidebar in VS code. If you don't see the connection in your left table of contents, click on the Elephant Postgres database icon to show the hostname and address with an expandable arrow. You can expand each of the databases as you would in any server connection tool to investigate the tables and their attributes as well. For example if you click on the 'people' table inside the 'baseball' database you can see the name of each field and the data type of each field as well.  
 
 ![explore tables image](https://raw.githubusercontent.com/AVJdataminer/Formats/master/images/image7.png) 
 
@@ -49,8 +59,3 @@ You can also select 'New Query' and write your own, remember to execute you need
 ---
 
 You can easily add additional connections by clicking on the plus sign to the right of 'POSTGRESQL EXPLORER:' For more instructions and demos you can visit the [extension website](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres).  Microsoft does have their own authored extension, but it has more limited capabilities for connecting to and exploring Postgres servers.
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzQxMTA1NCwtNTExMzYzOTY5XX0=
--->
